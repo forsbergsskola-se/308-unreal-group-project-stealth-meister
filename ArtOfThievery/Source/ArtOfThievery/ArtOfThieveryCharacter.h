@@ -39,6 +39,8 @@ class AArtOfThieveryCharacter : public ACharacter
 
 public:
 	AArtOfThieveryCharacter();
+	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = "C++")
+	bool isActive = true;
 	
 
 protected:
