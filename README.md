@@ -10,7 +10,7 @@ We decided on a stealth action game in the tradition of grand heist movie, steal
   
 ![The Art of Thievery: A Silent Heist](https://github.com/forsbergsskola-se/308-unreal-group-project-stealth-meister/assets/112468923/c14ace31-1eaa-4e86-8e51-6f7ab016bb63)  
 
-Link to the Youtube Video  
+Link to the Game Trailer  
 [![click to watch the video](https://img.youtube.com/vi/Jkzf3YWR7Oo/maxresdefault.jpg)](https://youtu.be/Jkzf3YWR7Oo) 
 
 We used Unreal Engine 5.2 and the Blueprint visual scripting system to quickly create the core mechanics of the game, from the UI to the Audio assets implemented ingame.  
